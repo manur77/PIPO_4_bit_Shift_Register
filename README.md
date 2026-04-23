@@ -77,7 +77,7 @@ On every rising edge of the clock:
 - Waveform output  
 - RTL schematic  
 
----
+
 
 ## 🚀 How to Run
 
