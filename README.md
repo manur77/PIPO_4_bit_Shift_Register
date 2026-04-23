@@ -86,4 +86,4 @@ On every rising edge of the clock:
    ```bash
    vlog Ush.v Ush_tb.v
 ![Netlist](netlist.png)
-![Waveform](waveform1.png)
+![Waveform](waveform2.png)
