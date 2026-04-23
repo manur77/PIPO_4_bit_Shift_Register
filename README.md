@@ -85,5 +85,5 @@ On every rising edge of the clock:
 2. Compile the files:
    ```bash
    vlog Ush.v Ush_tb.v
-   ![Netlist](netlist.png)
-   ![Waveform](waveform1.png)
+![Netlist](netlist.png)
+![Waveform](waveform1.png)
